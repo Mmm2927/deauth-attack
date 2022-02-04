@@ -4,9 +4,6 @@
 #include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>
-#include <list>
-#include <map>
-#include <string>
 #include <unistd.h>
 
 #include <iostream>
